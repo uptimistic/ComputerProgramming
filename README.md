@@ -6,9 +6,40 @@ Concept Flowchart
 graph TD;
     Programming-->Database;
     Programming-->Algorithms;
-    Programming-->Networks;
+    Programming-->Network-s;
  
 ```
+
+
+```mermaid
+graph TD;
+    Data --> A[Data Type];
+    Data -->B[Data Structures];
+    A -->Integer;
+
+    A -->Float;
+    A -->String; 
+    A -->Boolean;
+    
+    B --> C[Built-In];
+     B -->D[User Defined];
+     C --> List;
+     C --> Tuple;
+     C --> Set;
+     C --> Dictionary;
+     D --> Queue;
+     D --> Stack;
+     D --> LinkedList;
+     D --> Graph;
+
+
+
+
+
+
+
+```
+
 ---
 <table>
 <tr>
