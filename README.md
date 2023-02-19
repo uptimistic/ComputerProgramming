@@ -6,7 +6,7 @@ Concept Flowchart
 graph TD;
     Programming-->Database;
     Programming-->Algorithms;
-    Programming-->Network-s;
+    Programming-->Networks;
  
 ```
 
